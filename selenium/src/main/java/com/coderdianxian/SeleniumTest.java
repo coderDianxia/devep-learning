@@ -24,7 +24,7 @@ import java.util.concurrent.Executors;
 
 /**
  * @ClassName: SeleniumTest
- * @Description:TODO
+ * @Description: selenium绕过淘宝反爬机制登录
  * @Author:coderDianxia
  * @Date: 2022/11/10 9:46
  */
